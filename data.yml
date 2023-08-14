@@ -20,7 +20,7 @@ locations:
     mappingDefinitions:
       "2":
         database: PC_COALESCE_DB
-        schema: TEST
+        schema: TESTING
       "3":
         database: PC_COALESCE_DB
         schema: PROD
